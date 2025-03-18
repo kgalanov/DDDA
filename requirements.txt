@@ -8,3 +8,4 @@ tsfresh~=0.21.0
 skforecast~=0.15.0
 scikit-learn~=1.6.1
 pyod~=2.0.3
+salesforce-merlion~=2.0.4
